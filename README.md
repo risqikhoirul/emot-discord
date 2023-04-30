@@ -59,8 +59,11 @@ Get Token Discord
 Here's a revised version of the instructions:
 
 a. Open Discord in your web browser at https://discord.com.
+
 b. Click "Open Discord in your browser."
+
 c. Open the developer console by pressing F12.
+
 d. In the console menu, paste the following code and press enter:
 
 ```
