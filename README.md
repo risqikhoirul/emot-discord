@@ -109,6 +109,8 @@ node index unemot ✅
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
+❤️ Thank to [Abdelrahman Tarek](https://github.com/abdelrahman-tarek-0) ❤️
+
 ## License
 
 This project is licensed under the MIT License.
