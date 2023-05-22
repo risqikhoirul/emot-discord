@@ -105,6 +105,10 @@ node index unemot ✅
 
 ```
 
+## Result
+
+![](img.png)
+
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
